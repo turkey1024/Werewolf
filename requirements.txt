@@ -1,0 +1,20 @@
+# requirements.txt
+gevent>=21.8.0
+flask>=2.3.3
+flask-sockets>=0.2.1
+markupsafe>=2.1.3
+websockets>=11.0.3
+dashscope>=1.14.0
+regex>=2023.10.3
+
+# 异步/并发相关
+asyncio>=3.4.3
+threading>=3.0.0
+
+# 游戏/工具库（根据您的导入推测）
+# 如果以下包不存在，请根据实际情况调整
+# revqw
+# revTongYi.qianwen
+
+# 开发工具（可选）
+greenlet>=2.0.2
