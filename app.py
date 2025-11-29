@@ -10,8 +10,8 @@ from game import Game
 from queue import Queue, Empty
 import asyncio
 from threading import Thread
-from revqw import QWBotPlayer, gen_username
-import revqw
+# from revqw import QWBotPlayer, gen_username
+# import revqw
 import regex as re
 # import os
 # import binascii
